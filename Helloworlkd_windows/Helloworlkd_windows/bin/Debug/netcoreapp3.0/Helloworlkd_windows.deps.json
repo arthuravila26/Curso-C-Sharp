@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Helloworlkd_windows/1.0.0": {
+        "runtime": {
+          "Helloworlkd_windows.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Helloworlkd_windows/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
