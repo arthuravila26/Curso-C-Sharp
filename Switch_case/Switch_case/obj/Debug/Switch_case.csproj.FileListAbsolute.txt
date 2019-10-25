@@ -1,0 +1,20 @@
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\obj\Debug\Switch_case.csprojAssemblyReference.cache
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\obj\Debug\Switch_case.Form1.resources
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\obj\Debug\Switch_case.Properties.Resources.resources
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.GenerateResource.cache
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\obj\Debug\Switch_case.pdb
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso\Switch_case\Switch_case\obj\Debug\Switch_case.Form2.resources
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\bin\Debug\Switch_case.exe.config
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\bin\Debug\Switch_case.exe
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\bin\Debug\Switch_case.pdb
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\obj\Debug\Switch_case.csprojAssemblyReference.cache
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\obj\Debug\Switch_case.Form1.resources
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\obj\Debug\Switch_case.Form2.resources
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\obj\Debug\Switch_case.Properties.Resources.resources
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\obj\Debug\Switch_case.csproj.GenerateResource.cache
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\obj\Debug\Switch_case.exe
+C:\Users\arthur.avila\Documents\Visual Studio 2019\C# Curso Basico\Switch_case\Switch_case\obj\Debug\Switch_case.pdb
