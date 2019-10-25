@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Condicao_if", "Condicao_if\Condicao_if.csproj", "{5916370F-8039-487B-B3C8-C75E84ED8E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5916370F-8039-487B-B3C8-C75E84ED8E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5916370F-8039-487B-B3C8-C75E84ED8E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5916370F-8039-487B-B3C8-C75E84ED8E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5916370F-8039-487B-B3C8-C75E84ED8E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85522922-92F3-41C4-94B7-98BD4DFEC3C0}
+	EndGlobalSection
+EndGlobal
